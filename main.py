@@ -1,3 +1,11 @@
+# Description: An open-source Python program to automate generating images using the Midjourney bot on Discord. 
+# Author: harmindesinghnijjar
+# Edit by: SandalBandit
+# Date: 2023-05-26
+# Version: 1.0.0
+# Usage: python main.py
+
+# Import modules.
 import shutil
 import requests
 from selenium import webdriver
