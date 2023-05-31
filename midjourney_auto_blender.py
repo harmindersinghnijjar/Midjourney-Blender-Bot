@@ -15,7 +15,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 # Constants.
 # ART_TYPE = ""
 BOT_COMMAND = "/blend"
-CHANNEL_URL = "https://discord.com/channels/1101635190809448529/1101635191442784369"
+CHANNEL_URL = "YOUR_CHANNEL_URL_HERE"
 # DESCRIPTORS = ""
 # TOPIC = ""
 # PROMPT = f"Generate a Midjourney prompt to result in an {ART_TYPE} image about {TOPIC} include {DESCRIPTORS}"
